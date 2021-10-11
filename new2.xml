@@ -4,9 +4,9 @@
     <age> 27 </age>
     <pets> 2 </pets>
     <salary> 30000 </salary>
-    <film> Астрал <film>
-    <series> Люцифер <series>
-        <season> Осень <season>
-            <country> Япония <country>
+    <film> Астрал </film>
+    <series> Люцифер </series>
+    <season> Осень </season>
+    <country> Япония </country>
     
-<book/>
+</book>
